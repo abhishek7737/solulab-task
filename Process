@@ -1,0 +1,18 @@
+1. Create Ubuntu 18.04 machine on AWS
+2. Public IP: 65.2.35.144
+3. Install nginx 
+4. make index.html file 
+5. restart the nginx server
+6. Take domain from freenom as eammpletask.tk
+7. setup with my route 53 services on aws with used for domain name
+8. after this install certbot for SSL
+9. install docker 
+10. pull nginx image from open source 
+11. Then Configure Nginx with exposed port to domain.
+docker run -it -d -p 8080:80 nginx
+12. then check on ip
+
+
+
+
+
